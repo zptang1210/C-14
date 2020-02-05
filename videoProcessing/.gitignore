@@ -1,0 +1,5 @@
+# Resource files
+*.MP4
+
+# Temp files
+__pycache__/
