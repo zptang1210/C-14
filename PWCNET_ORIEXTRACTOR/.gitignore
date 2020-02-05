@@ -1,0 +1,12 @@
+# resources
+videos/
+extracted/
+
+# output files
+output/
+slurm*
+
+# temp files
+correlation/__pycache__/
+__pycache__/
+batchInfo/
