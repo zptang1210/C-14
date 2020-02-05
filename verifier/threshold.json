@@ -1,0 +1,8 @@
+{
+    "hotpointY": 0.7,
+    "hotpointYaw": 0.002,
+    "angleDiff": 20,
+    "waypointX": 0.9,
+    "waypointYaw": 0.0025,
+    "waypointAngleTolerance": 10
+}

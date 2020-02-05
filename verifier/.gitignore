@@ -1,0 +1,5 @@
+*.pyc
+*.metadata
+*.out
+__pycache__
+
