@@ -5,7 +5,7 @@ current_folder_path = os.path.split(os.path.realpath(__file__))[0] + '/'
 sys.path.append(current_folder_path + '../../utils/')
 from program import program
 sys.path.append(current_folder_path + '../../verifier/')
-from verifier_new_6 import verifier
+from verifier import verifier
 sys.path.append(current_folder_path + '../../videoProcessing/')
 from skipFrames import skipFrames
 from videoCompressor import videoCompressor
