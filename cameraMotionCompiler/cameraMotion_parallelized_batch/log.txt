@@ -1,0 +1,2 @@
+change spatial sampling from 5 to 7.
+switch off detailed display
