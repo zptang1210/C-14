@@ -1,0 +1,5 @@
+*.MP4
+*.metadata
+*.txt
+__pycache__/
+*.pyc
