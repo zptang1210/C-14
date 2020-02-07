@@ -31,40 +31,5 @@ def PWCNET_ORIEXTRACTOR_FOCALLEN(videoName, startFrame, endFrame, height, width,
      fout.close()
 
 
-if __name__ == '__main__':
-     if len(sys.argv) == 2 or len(sys.argv) == 4 or len(sys.argv) == 5 or len(sys.argv) == 6:
-          videoName = sys.argv[1]
-          cap = cv2.VideoCapture('./videos/' + videoName + '.MP4') # MP4 format by default
-          
-          if len(sys.argv) == 2:
-               frameStart = 0
-               frameEnd = int(cap.get(cv2.CAP_PROP_FRAME_COUNT)) - 1
-               focallen_param = DEFAULT_FOCALLEN
-               outputName = None
-          elif len(sys.argv) == 4:
-               frameStart = int(sys.argv[2])
-               frameEnd = int(sys.argv[3])
-               focallen_param = DEFAULT_FOCALLEN
-               outputName = None
-          elif len(sys.argv) == 5:
-               frameStart = int(sys.argv[2])
-               frameEnd = int(sys.argv[3])
-               focallen_param = float(sys.argv[4])
-               outputName = None               
-          elif len(sys.argv) == 6:
-               frameStart = int(sys.argv[2])
-               frameEnd = int(sys.argv[3])
-               focallen_param = float(sys.argv[4])
-               outputName = sys.argv[5]
-
-          height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
-          width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
-
-          PWCNET_ORIEXTRACTOR_FOCALLEN(videoName, frameStart, frameEnd, height, width, focallen_param=focallen_param, outputName=outputName)
-
-          cap.release()
-     else:
-          print('Command Formatting:\nscript.py videoName\nscript.py videoName frameStart frameEnd\nscript.py videoName frameStart frameEnd focallen_param\nscript.py videoName frameStart frameEnd focallen_param outputName\n')
-
      
      
