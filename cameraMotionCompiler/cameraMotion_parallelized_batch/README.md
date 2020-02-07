@@ -31,7 +31,9 @@ The first line is the number of batches *n*. In the following *n* lines, each li
 
 For example:
 
+```
 3
-29,29,DJI_0404\_\__reduce_15\_\_compressed_4_29_29
-30,30,DJI_0404\_\_reduce_15\_\_compressed_4_30_30
-31,31,DJI_0404\_\_reduce_15\_\_compressed_4_31_31
+29,29,DJI_0404___reduce_15__compressed_4_29_29
+30,30,DJI_0404__reduce_15__compressed_4_30_30
+31,31,DJI_0404__reduce_15__compressed_4_31_31
+```
