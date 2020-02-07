@@ -17,8 +17,8 @@
 
 For example:
 
-./run_extractOrientation.sh /cm/shared/apps/MATLAB/MATLAB_Runtime/v901 0179 0 3 2160 3840 0.82
+./run_extractOrientation.sh /cm/shared/apps/MATLAB/MATLAB_Runtime/v901 0179 0 3 2160 3840 7 0.82
 
 
 
-matlab -r "extractOrientation('hotpoint_1', '0', '3', '720', '1280', '0.7895')"
+matlab -r "extractOrientation('hotpoint_1', '0', '3', '720', '1280', '7', '0.7895')"
