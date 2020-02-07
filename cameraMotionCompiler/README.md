@@ -15,3 +15,14 @@ There are three versions of cameraMotion in total. The compilation steps are sim
 Notice: You may need to change the PATH argument in *compile.sh* to the MATLAB runtime library path in your computer.
 
 After compilation, you need to copy *compiled* folder to PWCNET_ORIEXTRACTOR, and change the folder to its corresponding name, say *cameraMotion_focallen*.
+
+
+
+## Versions
+
+| Version                         | Function                                                     |
+| ------------------------------- | ------------------------------------------------------------ |
+| cameraMotion_focallen           | Computing camera motion with the option to change the focal length |
+| cameraMotion_spatialSampling    | Computing camera motion with the option to change the focal length and the spatial sampling rate |
+| cameraMotion_parallelized_batch | Computing camera motion in a batch                           |
+
