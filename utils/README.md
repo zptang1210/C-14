@@ -1,5 +1,7 @@
 # Utils
 
+This folder includes utilities for C-14.
+
 | File Name                         | Function                                                     |
 | --------------------------------- | ------------------------------------------------------------ |
 | parseComputedMotion.py            | parse the output of cameraMotion                             |
