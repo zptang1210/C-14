@@ -3,7 +3,7 @@ import matplotlib
 from pathlib import Path
 
 sys.path.append('../utils/')
-from GPSrpyxyz_fabien import *
+from GPSrpyxyz import *
 from compareyaw import compare_yaw
 
 font = {'size': 14}

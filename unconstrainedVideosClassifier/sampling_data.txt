@@ -1,0 +1,1008 @@
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -103.25508836374078
+realYaw 108
+diff -4.744911636259218 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 142.3566874681049
+realYaw 140
+diff 2.3566874681048944 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -48.64233322514368
+realYaw 66
+diff -17.35766677485632 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -105.10262011621248
+realYaw 108
+diff -2.897379883787522 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 147.6766045076834
+realYaw 140
+diff 7.6766045076834075 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -48.24462838090465
+realYaw 66
+diff -17.75537161909535 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -153.00320721549394
+realYaw 157
+diff -3.996792784506056 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -144.85058516455933
+realYaw 169
+diff -24.149414835440666 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 215.64078689545667
+realYaw 238
+diff -22.35921310454333 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -151.25078591142346
+realYaw 157
+diff -5.749214088576537 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -163.7083313807869
+realYaw 169
+diff -5.291668619213112 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 221.85374359506505
+realYaw 238
+diff -16.146256404934945 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -95.78869946919792
+realYaw 108
+diff -12.211300530802077 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 129.80814614179093
+realYaw 140
+diff -10.191853858209072 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -51.18242569123451
+realYaw 66
+diff -14.817574308765487 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -91.04821381380066
+realYaw 108
+diff -16.951786186199342 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 118.02371154171895
+realYaw 140
+diff -21.976288458281047 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -56.96618152694739
+realYaw 66
+diff -9.033818473052612 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -149.76307153962878
+realYaw 157
+diff -7.236928460371217 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -159.24569727428408
+realYaw 169
+diff -9.754302725715917 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 216.1986186465397
+realYaw 238
+diff -21.8013813534603 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -149.06154760488602
+realYaw 157
+diff -7.938452395113984 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw -161.90521703942184
+realYaw 169
+diff -7.094782960578158 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.4
+estYaw 217.59910470862818
+realYaw 238
+diff -20.400895291371825 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -62.40404427197325
+realYaw 77
+diff -14.595955728026752 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -188.11439462372942
+realYaw 218
+diff -29.885605376270576 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -80.65268839325206
+realYaw 121
+diff -40.34731160674794 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -73.09756690655007
+realYaw 77
+diff -3.902433093449929 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -193.75870540887053
+realYaw 218
+diff -24.241294591129474 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -84.52757627946622
+realYaw 121
+diff -36.47242372053378 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw 46.5406282506288
+realYaw 52
+diff -5.459371749371201 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -58.3410849487083
+realYaw 63
+diff -4.6589150512917 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw 143.11672291079324
+realYaw 146
+diff -2.883277089206757 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw 57.596689646397785
+realYaw 52
+diff 5.596689646397785 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw -65.1231781044518
+realYaw 63
+diff 2.123178104451796 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.4
+estYaw 140.43005543704658
+realYaw 146
+diff -5.569944562953424 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -100.52281489063364
+realYaw 108
+diff -7.47718510936636 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 142.03997773838472
+realYaw 140
+diff 2.039977738384721 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -52.176122374438755
+realYaw 66
+diff -13.823877625561245 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -106.08375333895502
+realYaw 108
+diff -1.9162466610449798 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 148.0663864104834
+realYaw 140
+diff 8.066386410483403 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -50.494951920824505
+realYaw 66
+diff -15.505048079175495 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -151.09390215082396
+realYaw 157
+diff -5.906097849176035 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -162.5412665817081
+realYaw 169
+diff -6.458733418291899 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 221.5397666589076
+realYaw 238
+diff -16.46023334109239 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -154.9594037946683
+realYaw 157
+diff -2.0405962053316955 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -169.5504750997735
+realYaw 169
+diff 0.5504750997735073 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 218.907670990035
+realYaw 238
+diff -19.092329009965 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -93.36301028063701
+realYaw 108
+diff -14.636989719362987 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 139.8580817598417
+realYaw 140
+diff -0.14191824015830434 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -54.959471718869054
+realYaw 66
+diff -11.040528281130946 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -93.83086842462916
+realYaw 108
+diff -14.169131575370841 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 140.85689974355392
+realYaw 140
+diff 0.8568997435539245 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -54.56719013412559
+realYaw 66
+diff -11.432809865874411 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -148.1543568476118
+realYaw 157
+diff -8.845643152388192 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -158.33746269278407
+realYaw 169
+diff -10.662537307215928 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 218.87140121345018
+realYaw 238
+diff -19.128598786549816 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -148.1233959226133
+realYaw 157
+diff -8.876604077386702 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw -164.35156184653184
+realYaw 169
+diff -4.648438153468163 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.6
+estYaw 219.77081035812193
+realYaw 238
+diff -18.229189641878065 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -65.34359496970832
+realYaw 77
+diff -11.65640503029168 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -189.58212407251324
+realYaw 218
+diff -28.41787592748676 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -85.5570576786469
+realYaw 121
+diff -35.4429423213531 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -67.49610846670151
+realYaw 77
+diff -9.503891533298486 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -194.45978183828757
+realYaw 218
+diff -23.54021816171243 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -78.77766880151486
+realYaw 121
+diff -42.222331198485136 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw 45.99869912994138
+realYaw 52
+diff -6.001300870058621 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -61.3421309848695
+realYaw 63
+diff -1.6578690151305011 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw 138.58377973755526
+realYaw 146
+diff -7.416220262444739 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw 44.841224689065754
+realYaw 52
+diff -7.158775310934246 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw -58.816200867773794
+realYaw 63
+diff -4.183799132226206 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.6
+estYaw 138.49245013751295
+realYaw 146
+diff -7.507549862487053 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -101.0632974344277
+realYaw 108
+diff -6.936702565572304 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 141.52997381515596
+realYaw 140
+diff 1.5299738151559552 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -49.815015378675696
+realYaw 66
+diff -16.184984621324304 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -99.70334552420107
+realYaw 108
+diff -8.296654475798931 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 143.25851413708915
+realYaw 140
+diff 3.2585141370891506 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -49.8785269491998
+realYaw 66
+diff -16.121473050800198 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -152.4617042014679
+realYaw 157
+diff -4.53829579853209 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -158.041569867344
+realYaw 169
+diff -10.958430132655991 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 218.4220563991635
+realYaw 238
+diff -19.577943600836505 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -148.63084503263335
+realYaw 157
+diff -8.369154967366654 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -160.1624456135342
+realYaw 169
+diff -8.837554386465797 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 219.22026332868126
+realYaw 238
+diff -18.779736671318744 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -93.69986678402125
+realYaw 108
+diff -14.300133215978747 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 139.74203063652388
+realYaw 140
+diff -0.2579693634761213 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -53.511131578015565
+realYaw 66
+diff -12.488868421984435 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -92.99155446247666
+realYaw 108
+diff -15.008445537523343 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 135.5780069804471
+realYaw 140
+diff -4.4219930195529 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -50.76506810635836
+realYaw 66
+diff -15.234931893641637 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -149.70133274631408
+realYaw 157
+diff -7.29866725368592 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -162.77045560413464
+realYaw 169
+diff -6.229544395865361 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 218.5949354767419
+realYaw 238
+diff -19.40506452325809 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -149.69054826773072
+realYaw 157
+diff -7.309451732269281 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw -161.89193288433495
+realYaw 169
+diff -7.108067115665051 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 0.8
+estYaw 218.41632460548988
+realYaw 238
+diff -19.583675394510124 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -65.23391714372389
+realYaw 77
+diff -11.766082856276114 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -194.88944552212624
+realYaw 218
+diff -23.110554477873762 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -84.31106097088696
+realYaw 121
+diff -36.688939029113044 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -63.08967080773168
+realYaw 77
+diff -13.910329192268321 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -193.50049113382713
+realYaw 218
+diff -24.499508866172874 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -84.65574543237769
+realYaw 121
+diff -36.344254567622315 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw 47.277762415557746
+realYaw 52
+diff -4.722237584442254 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -60.62206959329106
+realYaw 63
+diff -2.3779304067089413 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw 142.48142285774534
+realYaw 146
+diff -3.5185771422546566 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw 47.66139479350136
+realYaw 52
+diff -4.338605206498642 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw -59.513786020768855
+realYaw 63
+diff -3.4862139792311453 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 0.8
+estYaw 137.71161183980925
+realYaw 146
+diff -8.288388160190749 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -100.10729187170251
+realYaw 108
+diff -7.892708128297485 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 142.23078301454368
+realYaw 140
+diff 2.2307830145436753 
+
+# 0
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -49.49204456236933
+realYaw 66
+diff -16.50795543763067 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -99.56294891844482
+realYaw 108
+diff -8.437051081555182 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 142.23390101461322
+realYaw 140
+diff 2.233901014613224 
+
+# 1
+video yawError2_DJI_0411__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -49.49374277372397
+realYaw 66
+diff -16.506257226276027 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -152.08106183558624
+realYaw 157
+diff -4.91893816441376 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -159.52554657088197
+realYaw 169
+diff -9.474453429118029 
+
+# 0
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 218.7423698433117
+realYaw 238
+diff -19.257630156688293 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -152.07612384552309
+realYaw 157
+diff -4.923876154476915 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -159.52359281380257
+realYaw 169
+diff -9.476407186197434 
+
+# 1
+video yawError2_DJI_0403__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 218.7431015264216
+realYaw 238
+diff -19.25689847357839 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -93.84801007624205
+realYaw 108
+diff -14.151989923757952 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 139.7188658290063
+realYaw 140
+diff -0.28113417099370963 
+
+# 0
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -52.40017306176164
+realYaw 66
+diff -13.599826938238358 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -93.80293200279168
+realYaw 108
+diff -14.197067997208322 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 139.71718564829249
+realYaw 140
+diff -0.2828143517075148 
+
+# 1
+video yawError2_DJI_0412__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -52.40177984150815
+realYaw 66
+diff -13.598220158491849 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -149.33352075449824
+realYaw 157
+diff -7.666479245501762 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -159.64748954368528
+realYaw 169
+diff -9.352510456314718 
+
+# 0
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 218.22806141519877
+realYaw 238
+diff -19.771938584801234 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -149.3512031712478
+realYaw 157
+diff -7.648796828752211 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw -159.74323141207682
+realYaw 169
+diff -9.256768587923176 
+
+# 1
+video yawError2_DJI_0410__reduce_15__compressed_5
+sampleRate 1.0
+estYaw 218.22464190463842
+realYaw 238
+diff -19.775358095361582 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -67.20306547850251
+realYaw 77
+diff -9.79693452149749 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -194.57472815615634
+realYaw 218
+diff -23.42527184384366 
+
+# 0
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -83.02209657801039
+realYaw 121
+diff -37.97790342198961 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -67.20400811075673
+realYaw 77
+diff -9.795991889243268 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -194.602003669384
+realYaw 218
+diff -23.397996330615996 
+
+# 1
+video yawError2_DJI_0443__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -83.0161999957796
+realYaw 121
+diff -37.9838000042204 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw 48.991803184653236
+realYaw 52
+diff -3.008196815346764 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -61.58533402741329
+realYaw 63
+diff -1.414665972586711 
+
+# 0
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw 138.2358845637877
+realYaw 146
+diff -7.7641154362123075 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw 48.99050632321125
+realYaw 52
+diff -3.0094936767887503 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw -61.58777818040623
+realYaw 63
+diff -1.4122218195937677 
+
+# 1
+video yawError2_DJI_0439__reduce_15__compressed_15
+sampleRate 1.0
+estYaw 138.32809586298373
+realYaw 146
+diff -7.67190413701627 
+
