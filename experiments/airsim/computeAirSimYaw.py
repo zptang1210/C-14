@@ -18,9 +18,9 @@ needCompress = True
 path = '../../PWCNET_ORIEXTRACTOR/videos/'
 
 
-def getYawValue(frameStart, framEnd, motionFileName, droneCameraAngle=50, directory='./output/'):
+def getYawValue(start, end, motionFileName, droneCameraAngle=50, directory='./output/'):
     parser = parseComputedMotion(directory + motionFileName + '.txt')
-    frame, ori, translation = parser.parse() 
+    ori, translation = parser.parse() 
 
     converter = convertCameraCoordFrameToDrone(ori, translation)
     droneOri, droneTrans = converter.convert(droneCameraAngle)
@@ -75,7 +75,7 @@ if __name__=='__main__':
         PWCNET_ORIEXTRACTOR_FOCALLEN(videoName, frameStart, frameEnd, height, width)     
 
         # sum up yaw
-        yaw = getYawValue(frameStart, framEnd, videoName)
+        yaw = getYawValue(frameStart, frameEnd, videoName)
         print(videoName, yaw)
 
     os.chdir(path_backup)
