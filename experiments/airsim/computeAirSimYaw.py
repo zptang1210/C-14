@@ -25,6 +25,7 @@ if __name__=='__main__':
         for file in files:
             videoName = os.path.splitext(file)[0]
             extension = os.path.splitext(file)[-1]
+            os.rename(folderPath+file, folderPath+videoName+extension.upper())
 
             compressor = videoCompressor(videoName, inputPath=folderPath)
             videoName = compressor.process((144, 256), outputPath=newFolderPath)

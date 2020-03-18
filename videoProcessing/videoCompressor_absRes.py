@@ -37,7 +37,7 @@ if __name__ == '__main__':
         width = int(sys.argv[3])
 
         compressor = videoCompressor(fileName)
-        compressor.process(scale)
+        compressor.process((height, width))
     else:
         print('Command Formatting:\nvideoCompressor_absRes.py DJI_0179 144 256')
 
