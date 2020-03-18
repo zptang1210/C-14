@@ -14,7 +14,7 @@ sys.path.append('../../utils')
 from parseComputedMotion import parseComputedMotion
 from convertCameraCoordFrameToDrone import convertCameraCoordFrameToDrone
 
-needCompress = True
+needCompress = False
 path = '../../PWCNET_ORIEXTRACTOR/videos/'
 
 
@@ -59,6 +59,7 @@ if __name__=='__main__':
         shutil.copyfile(folderPath+videoName+extension, path+videoName+extension.upper())
     
     # PWC-NET and cameraMotion
+    outputFileID = open('output_'+folderName+'.txt', 'w')
     files = os.listdir(folderPath)
 
     path_backup = os.getcwd() # backup the current working directory, and will restore by the end of the program
@@ -76,6 +77,7 @@ if __name__=='__main__':
 
         # sum up yaw
         yaw = getYawValue(frameStart, frameEnd, videoName)
-        print(videoName, yaw)
+        print(videoName, yaw, file=outputFileID)
 
     os.chdir(path_backup)
+    outputFileID.close()
