@@ -1,6 +1,7 @@
 import sys
 import os
 import shutil
+import cv2
 
 current_folder_path = os.path.split(os.path.realpath(__file__))[0] + '/'
 sys.path.append(current_folder_path + '../../videoProcessing')
