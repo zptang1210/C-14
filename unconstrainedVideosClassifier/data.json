@@ -1,0 +1,302 @@
+[
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video1.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video1__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      0,
+      585,
+      1000,
+      1410,
+      1934,
+      2271,
+      2766,
+      2943,
+      3175,
+      3345,
+      3521,
+      3613,
+      4712
+    ],
+    "frames_skipped": 14,
+    "remove_start": 200
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video2_edited.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video2__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      220,
+      870,
+      1240,
+      1580,
+      1761,
+      2442,
+      2700,
+      2920,
+      3250,
+      3420,
+      3590,
+      3845
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video3.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video3__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      1280,
+      1650,
+      1968,
+      2410,
+      3010,
+      3780,
+      4344,
+      4880,
+      5716,
+      6330
+    ],
+    "frames_skipped": 14,
+    "remove_end": 32
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video4.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video4__compressed_12__reduce_11__spatialSampling_7.txt",
+    "waypoints": [
+      22,
+      450,
+      700,
+      1172,
+      1780,
+      2040,
+      2300,
+      2450,
+      2740,
+      2900,
+      3240,
+      3676,
+      4050,
+      4575,
+      5090
+    ],
+    "frames_skipped": 11
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video5_save.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video5__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      250,
+      800,
+      1350,
+      1680,
+      2187,
+      2700,
+      3354,
+      3841,
+      4500,
+      5265,
+      5580,
+      5990
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video6.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video6__compressed_12__reduce_12__spatialSampling_7.txt",
+    "waypoints": [
+      0,
+      530,
+      1040,
+      1500,
+      2100,
+      2400,
+      3200,
+      3700,
+      4200,
+      4579
+    ],
+    "frames_skipped": 12
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video10.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video10__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      0,
+      400,
+      1420,
+      2180,
+      3320,
+      3680,
+      4229
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video11.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video11__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      70,
+      750,
+      1250,
+      1760,
+      2240,
+      2800
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video13.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video13__compressed_12__reduce_12__spatialSampling_7.txt",
+    "waypoints": [
+      137,
+      600,
+      900,
+      1250,
+      1600,
+      2040,
+      2460,
+      3100
+    ],
+    "frames_skipped": 12
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/video14.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_video14__compressed_12__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      15,
+      380,
+      800,
+      1050,
+      1350,
+      1600,
+      1800
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeB.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0453__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      58,
+      300,
+      412,
+      770,
+      950,
+      1230,
+      1380,
+      1530,
+      1750
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeC.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0454__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      58,
+      290,
+      400,
+      775,
+      950,
+      1170,
+      1321,
+      1480,
+      1699
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeA.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0455__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      51,
+      275,
+      335,
+      480,
+      863,
+      1127,
+      1300,
+      1505,
+      1735
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeB.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0456__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      55,
+      260,
+      382,
+      730,
+      863,
+      1180,
+      1355,
+      1515,
+      1745
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeC.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0457__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      52,
+      260,
+      390,
+      780,
+      960,
+      1490,
+      1780,
+      2000,
+      2227
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeD.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0462__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      56,
+      295,
+      390,
+      545,
+      750,
+      925,
+      1080,
+      1190,
+      1480
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeD.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0463__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      64,
+      290,
+      395,
+      530,
+      713,
+      920,
+      1020,
+      1185,
+      1440
+    ],
+    "frames_skipped": 14
+  },
+  {
+    "kml": "/Users/fabien/Documents/amherst/fall19/cs696/litchi_missions/homeA.kml",
+    "compressed_cameramotion": "/Users/fabien/Documents/amherst/fall19/cs696/cameramotion/skip_CM_DJI_0464__compressed_15__reduce_14__spatialSampling_7.txt",
+    "waypoints": [
+      53,
+      300,
+      430,
+      580,
+      865,
+      1060,
+      1232,
+      1353,
+      1687
+    ],
+    "frames_skipped": 14
+  }
+]
