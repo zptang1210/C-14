@@ -2,15 +2,33 @@ import sys
 import os
 import shutil
 import cv2
+import math
+import numpy as np
 
 current_folder_path = os.path.split(os.path.realpath(__file__))[0] + '/'
 sys.path.append(current_folder_path + '../../videoProcessing')
 from videoCompressor_absRes import videoCompressor
 sys.path.append('../../PWCNET_ORIEXTRACTOR')
 from PWCNET_ORIEXTRACTOR_FOCALLEN import PWCNET_ORIEXTRACTOR_FOCALLEN
+sys.path.append('../../utils')
+from parseComputedMotion import parseComputedMotion
+from convertCameraCoordFrameToDrone import convertCameraCoordFrameToDrone
 
 needCompress = True
 path = '../../PWCNET_ORIEXTRACTOR/videos/'
+
+
+def getYawValue(frameStart, framEnd, motionFileName, droneCameraAngle=50, directory='./output/'):
+    parser = parseComputedMotion(directory + motionFileName + '.txt')
+    frame, ori, translation = parser.parse() 
+
+    converter = convertCameraCoordFrameToDrone(ori, translation)
+    droneOri, droneTrans = converter.convert(droneCameraAngle)
+
+    yaw = droneOri[:, 1]
+
+    return np.rad2deg(np.sum(yaw[start:end+1]))
+
 
 if __name__=='__main__':
     folderName = sys.argv[1]
@@ -55,5 +73,9 @@ if __name__=='__main__':
         height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
         width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
         PWCNET_ORIEXTRACTOR_FOCALLEN(videoName, frameStart, frameEnd, height, width)     
+
+        # sum up yaw
+        yaw = getYawValue(frameStart, framEnd, videoName)
+        print(videoName, yaw)
 
     os.chdir(path_backup)
