@@ -101,7 +101,7 @@ class parseMetadata(object):
 
         elif cmdSplitted[1] in parseMetadata.__DroneProgrammingLabel:
             cmd = cmdSplitted[1]
-            cmdClass = command(timestamp, cmd, None, cmd[2:])
+            cmdClass = command(timestamp, cmd, None, cmdSplitted[2:])
 
         return cmdClass
 
