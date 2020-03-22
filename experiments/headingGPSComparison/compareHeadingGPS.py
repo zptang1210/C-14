@@ -1,6 +1,5 @@
 import sys
 import math
-import numpy as np
 from geographiclib.geodesic import Geodesic
 sys.path.append('./utils')
 from parseMetadata_new_simplified import parseMetadata
@@ -13,7 +12,7 @@ class metadataAngleExtractor(object):
     def __init__(self, metadataFilePath):
         metadataParser = parseMetadata(metadataFilePath)
         motionClass, (centerLongitude, centerLatitude), self.hotpointCmdList = metadataParser.parse()
-        self.centerPoint = np.array([centerLatitude, centerLongitude])
+        self.centerPoint = (centerLatitude, centerLongitude)
         self.absoluteAngles = motionClass.motionAngle
         self.isClockwise = motionClass.clockwiseDirect
         self.plan = program(list(zip(motionClass.motionAngle, motionClass.clockwiseDirect)))
@@ -100,7 +99,7 @@ def getAnglesForMetadata(metadataFile, folderPath='./metadata/', verbose=False):
     extractor = metadataAngleExtractor(folderPath + metadataFile)
     ideaAngles = extractor.getIdeaAngles()
     headingAngles = extractor.getHeadingAngles(verbose)
-    GPSAngles = extractor.getGPSAngles(verbose=True)
+    GPSAngles = extractor.getGPSAngles(verbose)
     absoluteAngles = extractor.getAbsoluteAngles()
 
     if verbose:
@@ -155,7 +154,6 @@ if __name__ == '__main__':
             data0460, data0459, data0443, data0439, data0447, data0494, data0495, data0496, 
             data0488, data0489, data0490, data0491, data0508, data0498, data0497, 
             data0502, data0501, data0500, data0504]
-
 
     fout = open('output.txt', 'w')
 
