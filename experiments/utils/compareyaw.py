@@ -20,7 +20,7 @@ def request_yaw(framestamps, yaw, start, end):
     return cumulative_yaw
 
 
-def compare_yaw(metadata_framestamps, yaw_metadata, step, yaw_cameramotion):
+def compare_yaw(metadata_framestamps, yaw_metadata, step, yaw_cameramotion, max_frame=None):
     print("metadata_framestamps", len(metadata_framestamps))
     if metadata_framestamps[0] > 0:
         print('framestamps[0] should be negative ({})'.format(metadata_framestamps[0]))
@@ -43,6 +43,10 @@ def compare_yaw(metadata_framestamps, yaw_metadata, step, yaw_cameramotion):
     errors = []
     start = metadata_framestamps[0]
     for i_metadata in range(1, len(metadata_framestamps)):
+
+        if max_frame is not None and metadata_framestamps[i_metadata] > max_frame:
+            break
+
         end = metadata_framestamps[i_metadata]
         yaw_predicted = request_yaw(cameramotion_framestamps, yaw_cameramotion, start, end)
         if yaw_predicted is None: break
