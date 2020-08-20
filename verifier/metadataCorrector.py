@@ -1,7 +1,8 @@
+# The result from the corrector for hotpoints is not used in the following procedure. We maintian this because it's a legacy code.
 import sys
 import math
 import numpy as np
-import pwlf
+import pwlf # The result of C-14 does not depend on this package. We maintain this because it's a legacy code.
 # import matplotlib.pyplot as plt
 sys.path.append('../utils')
 from command import command
@@ -20,9 +21,9 @@ class metadataCorrector(object):
         startVideoTime, endVideoTime = self.recordVideoTime
         actualStartRecTime = endVideoTime
 
-        # 读取metadata在开始时间之后的数据
-        # 转换成ideal drone coordinate system
-        # 一个一个的纠正
+        # read the data in the metadata after the actual start of the motion
+        # convert the data to the ideal drone coordinate system
+        # correct the data one by one
 
         numHotpoint = len(self.hotpointActionTimeList)
         correctedHotpointTimeList = []
@@ -203,7 +204,7 @@ class metadataCorrector(object):
 
 
     def __getCorrectedHotpointTimeLength(self, realMotion_drone, hotpointTimeLabel):
-        # 找出hotpoint开始从0增长的时间戳，到hotpoint开始下降的时间长度
+        # Find the timestamp where hotpoint starts to increase from 0 and the timestamp where the hotpoint starts to decrease. Compute the difference between them.
         timestamp, roll, pitch, yaw, vx, vy, vz = realMotion_drone 
         
         idx = metadataCorrector.findFirstStableStatus(vy, (lambda x: x>0.1 or x<-0.1), windowSize=10)
@@ -214,8 +215,8 @@ class metadataCorrector(object):
 
 
     def __getCorrectedHotpointTimeLabel(self, realMotion_drone, hotpointTimeLabel, verbose=False):
-        # 先将Y变得接近1的时间点提出来
-        # 然后将yaw的信号平滑并拟合，并找到数据开始稳定的时间点
+        # Find the timestamp where Y get close to 1,
+        # and then smooth the signal of yaw and fit it with a function, and find the timestamp where the value becomes stable. (deprecated)
         timestamp, roll, pitch, yaw, vx, vy, vz = realMotion_drone
 
         idx = metadataCorrector.findFirstStableStatus(vy, (lambda x: x>0.9 or x<-0.9), windowSize=10)

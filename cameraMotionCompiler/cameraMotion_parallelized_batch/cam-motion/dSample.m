@@ -1,5 +1,5 @@
 function [idx_down ] = dSample(region, n, h, w)
-
+	% under construction: need to improve it for random grid sampling
 	idx = 1:h*w;
 	idx = reshape(idx, h, w);
 

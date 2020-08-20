@@ -1,7 +1,7 @@
 import sys
 import math
 import numpy as np
-import pwlf
+import pwlf # this package's computational result is not used, just legacy code.
 # import matplotlib.pyplot as plt
 sys.path.append('../../utils')
 from command import command
