@@ -5,7 +5,7 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib import animation
 
-sys.path.append('../utils/')
+sys.path.append('../../utils/')
 from parseMetadata import parseMetadata
 from parseComputedMotion import *
 from convertCameraCoordFrameToDrone import *
@@ -106,7 +106,7 @@ def toFrame(recordVideoTime, time):
 
 def timestampToFramestamp(metadataFilePath, timestamp):
     parser = parseMetadata(metadataFilePath)
-    motionClass, recordVideoTime, hotPointActionTimeList, waypointActionTimeList = parser.parse()
+    motionClass, recordVideoTime, hotPointActionTimeList, waypointActionTimeList, _ = parser.parse()
 
     framestamp = []
     timeFrameDict = dict()
